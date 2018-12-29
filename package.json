@@ -1,16 +1,16 @@
 {
-  "name": "notes-app-api",
+  "name": "myapp-api",
   "version": "1.1.0",
-  "description": "A Node.js starter for the Serverless Framework with async/await and unit test support",
+  "description": "Base project for a Serverless.com framework based API on AWS",
   "main": "handler.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Shahar Nechmad",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnomalyInnovations/serverless-nodejs-starter.git"
+    "url": "https://github.com/nechmads/base_serverless_api"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.2.3",
